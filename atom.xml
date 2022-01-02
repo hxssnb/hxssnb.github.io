@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huanxszk.xyz</id>
     <title>Gridea</title>
-    <updated>2022-01-02T11:32:40.541Z</updated>
+    <updated>2022-01-02T13:25:45.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huanxszk.xyz"/>
     <link rel="self" href="https://huanxszk.xyz/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://huanxszk.xyz/images/avatar.png</logo>
     <icon>https://huanxszk.xyz/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[77]]></title>
+        <id>https://huanxszk.xyz/post/77/</id>
+        <link href="https://huanxszk.xyz/post/77/">
+        </link>
+        <updated>2022-01-02T12:35:58.000Z</updated>
+        <content type="html"><![CDATA[<p>77</p>
+]]></content>
+    </entry>
 </feed>
