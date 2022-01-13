@@ -9,7 +9,7 @@
 <meta name="description" content="满世界都是你">
 <meta name="theme-color" content="#000">
 <title>Huanx Blog</title>
-<link rel="shortcut icon" href="/favicon.ico?v=1642065117919">
+<link rel="shortcut icon" href="/favicon.ico?v=1642065643778">
 <link rel="stylesheet" href="/styles/main.css">
 <link rel="stylesheet" href="/media/css/gemini.css">
 
@@ -276,22 +276,24 @@
             
   
     
-    
-      <link rel="stylesheet" href="https://unpkg.com/disqusjs@1.1/dist/disqusjs.css">
-<script src="https://unpkg.com/disqusjs@1.1/dist/disqus.js"></script>
+      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
 
-<div id="disqus_thread"></div>
+<div id="gitalk-container"></div>
 
 <script>
-  var options = {
-    shortname: 'huanx blog',
-    apikey: 'SgKPcNpdnkmXidIDFWDWRc0i25xo33crrXNrWaRcQEINodUEjYOM69tHdsMp3W0H',
-  }
-  if ('https://disqus.skk.moe/disqus/') {
-    options.api = 'https://disqus.skk.moe/disqus/'
-  }
-  var dsqjs = new DisqusJS(options)
+  var gitalk = new Gitalk({
+    clientID: '6d712324588cf1b65219',
+    clientSecret: '713acbcdc1462fb31512dece96f58d843590c157',
+    repo: 'index',
+    owner: 'hxssnb',
+    admin: ['hxssnb'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
 </script>
+    
     
   
 
