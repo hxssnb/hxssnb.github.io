@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huanxszk.xyz</id>
     <title>Huanx Blog</title>
-    <updated>2022-01-13T09:20:47.037Z</updated>
+    <updated>2022-01-13T09:26:37.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huanxszk.xyz"/>
     <link rel="self" href="https://huanxszk.xyz/atom.xml"/>
@@ -37,6 +37,8 @@
 <p>Huanx，男，15岁，是个**</p>
 <h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
 <p>欣赏二次元和水群</p>
+<h2 id="我会什么">💪 我会什么</h2>
+<p>什么都不会的说。</p>
 <h2 id="冲浪环境">💻 冲浪环境</h2>
 <p>十年老机 + Pop! OS 21.10</p>
 <h2 id="联系我呀">📬 联系我呀</h2>
