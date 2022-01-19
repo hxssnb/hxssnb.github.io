@@ -1,14 +1,3 @@
----
-title: '关于'
-date: 2022-01-02 19:09:48
-tags: []
-published: true
-hideInList: false
-feature: 
-isTop: false
----
-> 欢迎来到我的小破站！
-
 ## 🏠 关于本站
   Huanx搭建在Github上的吃资源的破站，于2022年年初建成。
 ## 👨‍💻 博主是谁
