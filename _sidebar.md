@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 
-* [自产自销](auto)
-* [about](/about.md)
-* [Hello](/Hello.md)
+* [自产自销](./)
+* [about](./about.md)
+* [Hello](./Hello.md)
