@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Home](/)
+* [自产自销](/)
 * [about](/about.md)
 * [Hello](/Hello.md)
-* [ArchLinux.md](/ArchLinux.md)
