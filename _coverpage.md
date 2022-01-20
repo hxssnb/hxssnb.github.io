@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://ae01.alicdn.com/kf/He7baf644471040c89a0262504d56b7293.png)
+![logo](https://inews.gtimg.com/newsapp_ls/0/14443517859/0.jiketuchuang.png)
 
 ## Huanx's Notes
 > 破站
