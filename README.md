@@ -4,5 +4,6 @@
 * [本站网盘](https://w.hxnb.workers.dev
 )
 * 反代 [https://p.hxnb.workers.dev/]
-    
-        例子：https://p.hxnb.workers.dev/https:/www.google.com
+        
+        例子：
+        https://p.hxnb.workers.dev/https:/www.google.com
