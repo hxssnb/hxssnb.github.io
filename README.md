@@ -1,7 +1,7 @@
 # 自产自销
 
 ## 使用cloudflare workers 整的破玩意
-* [本站文件盘](w.hxnb.workers.dev
+* [本站文件盘](https://w.hxnb.workers.dev
 )
 
 
