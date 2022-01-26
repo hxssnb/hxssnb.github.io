@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Home](README)
 * [自产自销](zczx)
 * [about](about)
 * [Hello](Hello)
