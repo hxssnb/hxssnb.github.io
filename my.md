@@ -5,9 +5,7 @@
 ```
 * MTProtoy一键搭建
 ```bash
-
 bash <(curl -sL https://storage.googleapis.com/tiziblog/mt_setup.sh)
-
 ```
 ## 软件
 
