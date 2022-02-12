@@ -1,11 +1,11 @@
 ## 脚本
-* trojan一键搭建
+* trojan一键搭建(请使用bash运行)
 ```bash
     bash <(curl -sL https://huanxszk.xyz/s/trojan)
 ```
-* MTProtoy一键搭建
+* MTProtoy一键搭建(请使用bash运行)
 ```bash
-bash <(curl -sL https://storage.googleapis.com/tiziblog/mt_setup.sh)
+bash <(curl -sL https://huanxszk.xyz/s/mtprotoy)
 ```
 ## 软件
 
