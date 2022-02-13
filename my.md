@@ -13,5 +13,5 @@ bash <(curl -sL https://huanxszk.xyz/s/mtprotoy)
 
 ## 工具
 
-* [订阅转换工具](https://v2rayse.com/）
+* [订阅转换工具](https://v2rayse.com/)
 
