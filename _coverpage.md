@@ -7,7 +7,10 @@
 
 - 用来存一些杂七杂八的玩意
 
-- 没钱买域名辣
+- 进新域名啦
+
+- <a href="https://icp.gov.moe/?keyword=20225520" target="_blank">萌ICP备20225520号</a>
+
 
 [BiliBili](https://space.bilibili.com/503842971)
 [Get Started](./)
